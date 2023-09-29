@@ -1,0 +1,11 @@
+Purpose: This application has been developed for personal use with the intention of serving as an educational resource. However, it is available for use by anyone who can benefit from it.
+
+Sharing: We encourage users to share this application with others while providing proper credit to the original creators. Sharing helps expand its reach and impact.
+
+Business Use: Please refrain from utilizing this application for commercial or business purposes. It is primarily intended for personal and educational use only.
+
+Open Source: This application is an open-source project, meaning that the source code is accessible and available for review and modification by the community. Users are invited to contribute to its development and improvement.
+
+Source Code: After logging into the application, users can find the link to the source code on GitHub. This allows users to explore the codebase and access the latest updates and improvements made to the application.
+
+We appreciate your cooperation and adherence to these guidelines.
